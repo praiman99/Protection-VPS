@@ -16,21 +16,11 @@
   <a><img src="https://img.shields.io/badge/Service-Anti--DDos-success.svg"></a>
   <a><img src="https://img.shields.io/badge/Service-Anti--torrent-success.svg"></a>
  </p>
-    
- <h3 align="center">Screenshorts</h3>
- 
- <img src="https://raw.githubusercontent.com/praiman99/Protection-VPS/beginner/Screenshort/1.PNG" width="100%">
-  
   </h3>
-  
-  <h3 align="center">Requirements</h3>
-  
-  - VPS with VPN script installed 
-  
 <h3 align="center">Installation</h3>
 
 <p align="center">
-<pre align="center">wget https://raw.githubusercontent.com/praiman99/Protection-VPS/beginner/setup.sh && chmod +x setup.sh && ./setup.sh
+<pre align="center">wget https://raw.githubusercontent.com/praiman99/Protection-VPS/beginner/Protection-VPS.sh && chmod +x Protection-VPS.sh && ./Protection-VPS.sh
 </pre></p>
 
 <h3 align="center">Additional Info</h3>
@@ -42,7 +32,7 @@ Recommended OS :
 
 - Centos 7 & 8 x64 bit
 
-Credit To : hhttps://github.com/jgmdev (Orignal Anti DDos Script)
+Credit To : https://github.com/jgmdev (Orignal Anti DDos Script)
 
 Credit To : https://t.me/horasss (Orignal Anti Torrent Script)
 
