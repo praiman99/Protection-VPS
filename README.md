@@ -42,9 +42,9 @@ Recommended OS :
 
 - Centos 7 & 8 x64 bit
 
-Credit To : https://t.me/horasss (Orignal Base Script)
+Credit To : hhttps://github.com/jgmdev (Orignal Anti DDos Script)
 
-Credit To : https://github.com/johndesu090/AutoScriptDeb8 (Orignal Menu Script)
+Credit To : https://t.me/horasss (Orignal Anti Torrent Script)
 
 Report Bugs Contact : https://t.me/PR_Aiman
   
