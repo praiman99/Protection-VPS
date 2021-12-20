@@ -34,8 +34,6 @@ Recommended OS :
 
 Credit To : https://github.com/jgmdev (Orignal Anti DDos Script)
 
-Credit To : https://github.com/sammwyy/ddos-mitigation (Orignal Anti DDos Script)
-
 Credit To : https://t.me/horasss (Orignal Anti Torrent Script)
 
 Report Bugs Contact : https://t.me/PR_Aiman
