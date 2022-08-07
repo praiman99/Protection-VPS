@@ -27,6 +27,13 @@
 
 <h3 align="center">Additional Info</h3>
 Recommended OS :
+- Protect From DDos
+
+- Protect From Torrent
+
+- Protect Bandwith VPS
+
+- Stable Speed VPS with BBR-TCP
 
  - Debian 9 & 10 x64 bit
 
